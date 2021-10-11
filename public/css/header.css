@@ -1,0 +1,51 @@
+.header-horizontal{
+    height: 100px;
+    padding-top: 30px;
+}
+
+.header-horizontal nav{
+    text-align: right;
+}
+
+.header-horizontal nav ul{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+.header-horizontal nav ul li{
+    display: inline;
+    width: 100px;
+    border-left: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.header-horizontal nav ul li:last-child{
+    border-right: 1px solid black;
+}
+
+.header-horizontal nav ul li a{
+    color: black;
+    text-transform: uppercase;
+}
+
+.header-horizontal nav a{
+    color: black;
+}
+
+.header-vertical{
+    margin-left: 40px;
+}
+
+.header-vertical nav li{
+    line-height: 30px;
+}
+
+.header-vertical nav ul li a{
+    text-transform: uppercase;
+    color: gray;
+}
+
+.header-vertical a{
+    color: black;
+}
