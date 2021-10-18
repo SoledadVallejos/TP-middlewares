@@ -1,5 +1,5 @@
 <h1 align="center"> TP-middlewares </h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/84512521/137649754-64348374-944a-4ac9-92ed-1a4e0390ebf0.png" width=250px height=150px></img></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/84512521/137650590-e627cc84-23bc-49a4-b388-42d9b803a8c7.gif" width=250px height=150px></img></p>
 
 
 ## Tabla de contenidos:
@@ -12,7 +12,7 @@
 
 ## Descripción y contexto
 ---
-En este eMarket se necesitara que sea posible agregar, borrar y modificar productos y que los mismos se persistan en una base de datos. Adicionalmente, también debera permitir leer los productos presentes en dicha base de datos de una manera rápida y sencilla. A este sistema, se le conoce como ABM (Alta, Baja, Modificación) o CRUD (Create, Read, Update, Delete).
+Desarrollo de middleware que  permite llevar un registro sobre el acceso a diferentes rutas en este proyecto, como un log para identificar a qué rutas se accedieron. Además, se va a codificar un middleware para restringir el ingreso a una determinada URL.
 
 ## Instalación 🔧
 ---
